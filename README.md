@@ -1,1 +1,1 @@
-# Calc
+"CALC" for INSART JavaScript Trainee
